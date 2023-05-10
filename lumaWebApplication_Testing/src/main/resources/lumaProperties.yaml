@@ -1,0 +1,113 @@
+siteUrl: "https://magento.softwaretestingboard.com/"
+
+
+userCredentials:
+ fname: "ashh" 
+ lname: "sag"
+ email: "sdaiiskh7@gmail.com"
+ password: "L0tus@123"
+ cnpassword: "L0tus@123"
+ 
+
+createAccount:
+ optionClick: ".header .header li:last-child a"             
+ pageValSelector: ".base"
+ firstNameSelector: "#firstname"
+ lastNameSelector: "#lastname"
+ checkBoxSelector: "#is_subscribed"
+ emailSelector: "#email_address"
+ passwordSelector: "//input[@id='password']"
+ confirmSelector: "#password-confirmation"
+ buttonSelector: ".primary"
+ myAccPageVal: ".page-title-wrapper"
+ mouseDropSelector: ".panel .header .customer-name"
+ dropDownSelector: ".customer-name"
+ 
+ # "div[class=\"panel header\"] ul li:nth-child(3) a"
+ 
+signinAccount: 
+ optionClick: ".header .links li:nth-child(2) a"
+ pagaValSelector: ".page-title-wrapper"
+ submitSelector: ".login#send2"
+ signInAcPageSelector: ".page-title-wrapper"
+ 
+yogaBanner:
+ bfbanName: ".bg-white span:first-child"
+ bannerClick: ".blocks-promo a:first-child"
+ afbanName: ".page-title-wrapper"
+ 
+pantsBanner:
+ bfbanMsgSelector: ".home-pants .info"
+ bannerClick: ".block-promo-hp a:first-child"
+ afbanMsgSelector: ".page-title-wrapper"
+
+teesBanner:
+ bfbanMsgSelector: ".home-t-shirts .info"
+ bannerClick: ".home-t-shirts"
+ afbanMsgSelector: ".page-title-wrapper"
+
+erinBanner: 
+ bfbanMsgSelector: ".home-erin .action"
+ bannerClick: ".home-erin"
+ afbanMsgSelector: ".page-title-wrapper"
+ 
+fabricBanner: 
+ bfbanMsgSelector: ".home-performance .title"
+ bannerClick: ".home-performance"
+ afbanMsgSelector: ".page-title-wrapper"
+
+lumaEcoBanner:
+ bfbanMsgSelector: ".home-eco .info"
+ bannerClick: ".home-eco"
+ afbanMsgSelector: ".page-title-wrapper"
+ 
+ 
+productSizeClr:
+ productSelector: ".product-item"
+ prdctName: ".product-item-name"
+ prdctSizes: ".size .swatch-option"
+ prdctClrs: ".color .swatch-option"
+ prdctImg: ".product-image-photo"
+ attribute1: "aria-checked"
+ attribute2: "aria-label"
+ sizeEleXpath: "//div[contains(@class, 'size')] //*[contains(text(), '{}')]"
+ 
+prdctSelect:
+ prdctSelected: ".product-item"
+ prdctNamebf: ".product-item-name"
+ prdctPricebf: ".price-container .price-wrapper"
+ prdctReviewsbf: ".reviews-actions .view"
+ nameEleXpathforClick: "//*[contains(text(), '{}')]"
+ prdctnameAf: ".base"
+ prdctPriceAf: ".product-info-price .price"
+ prdctReviewsAf: ".product .counter"
+ newPagePrdctSizes: ".swatch-opt .clearfix .text"
+ sizeEleXpath: "//div[contains(@class, 'clearfix')] //div[contains(text(), '{}')]"
+ newPagePrdctClrs: ".swatch-opt .clearfix .color"
+ clrAttribute: "aria-label"
+ imgEle_selector: ".fotorama__active .fotorama__img"
+ imgEle_attribute: "src"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

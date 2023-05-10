@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-10T19:11:49 IST" name="Default suite" finished-at="2023-04-10T19:23:36 IST" duration-ms="706770">
+    <groups>
+    </groups>
+    <test started-at="2023-04-10T19:11:49 IST" name="Default test" finished-at="2023-04-10T19:23:36 IST" duration-ms="706770">
+      <class name="luma_homepage.Create_and_signin">
+        <test-method signature="loadConfigFile()[pri:1, instance:luma_homepage.Create_and_signin@6e171cd7]" started-at="2023-04-10T19:11:49 IST" name="loadConfigFile" finished-at="2023-04-10T19:11:50 IST" duration-ms="457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfigFile -->
+        <test-method signature="driver_Setup()[pri:2, instance:luma_homepage.Create_and_signin@6e171cd7]" started-at="2023-04-10T19:11:50 IST" name="driver_Setup" finished-at="2023-04-10T19:12:06 IST" duration-ms="15819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver_Setup -->
+        <test-method signature="productSelection()[pri:11, instance:luma_homepage.Create_and_signin@6e171cd7]" started-at="2023-04-10T19:12:06 IST" name="productSelection" finished-at="2023-04-10T19:23:36 IST" duration-ms="690370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productSelection -->
+      </class> <!-- luma_homepage.Create_and_signin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

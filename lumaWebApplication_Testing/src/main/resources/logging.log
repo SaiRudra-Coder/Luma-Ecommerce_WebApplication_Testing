@@ -1,0 +1,324 @@
+2023-04-10 19:12:06 INFO  Create_and_signin:products_size_clr_picking:120 - Product Name : Radiant Tee
+2023-04-10 19:12:07 INFO  Create_and_signin:products_size_clr_picking:130 - Avalible size's are: [XS, S, M, L, XL]
+2023-04-10 19:12:07 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : XS
+2023-04-10 19:12:07 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : blue
+2023-04-10 19:12:09 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: blue
+2023-04-10 19:12:09 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : orange
+2023-04-10 19:12:10 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: orange
+2023-04-10 19:12:10 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : purple
+2023-04-10 19:12:11 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: purple
+2023-04-10 19:12:11 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:11 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : S
+2023-04-10 19:12:11 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : blue
+2023-04-10 19:12:12 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : blue
+2023-04-10 19:12:12 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : orange
+2023-04-10 19:12:13 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : orange
+2023-04-10 19:12:13 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : purple
+2023-04-10 19:12:14 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : purple
+2023-04-10 19:12:14 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:14 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : M
+2023-04-10 19:12:14 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : blue
+2023-04-10 19:12:15 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: blue
+2023-04-10 19:12:15 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : orange
+2023-04-10 19:12:17 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: orange
+2023-04-10 19:12:17 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : purple
+2023-04-10 19:12:18 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : purple
+2023-04-10 19:12:18 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:18 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : L
+2023-04-10 19:12:18 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : blue
+2023-04-10 19:12:19 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: blue
+2023-04-10 19:12:19 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : orange
+2023-04-10 19:12:20 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: orange
+2023-04-10 19:12:20 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : purple
+2023-04-10 19:12:21 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: purple
+2023-04-10 19:12:21 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:21 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : XL
+2023-04-10 19:12:21 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : blue
+2023-04-10 19:12:22 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: blue
+2023-04-10 19:12:22 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : orange
+2023-04-10 19:12:23 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: orange
+2023-04-10 19:12:23 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : purple
+2023-04-10 19:12:25 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: purple
+2023-04-10 19:12:25 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:25 INFO  Create_and_signin:products_size_clr_picking:120 - Product Name : Breathe-Easy Tank
+2023-04-10 19:12:25 INFO  Create_and_signin:products_size_clr_picking:130 - Avalible size's are: [XS, S, M, L, XL]
+2023-04-10 19:12:25 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : XS
+2023-04-10 19:12:25 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : purple
+2023-04-10 19:12:26 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: purple
+2023-04-10 19:12:26 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : white
+2023-04-10 19:12:27 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: white
+2023-04-10 19:12:27 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : yellow
+2023-04-10 19:12:28 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: yellow
+2023-04-10 19:12:28 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:29 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : S
+2023-04-10 19:12:29 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : purple
+2023-04-10 19:12:30 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : purple
+2023-04-10 19:12:30 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : white
+2023-04-10 19:12:31 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : white
+2023-04-10 19:12:31 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : yellow
+2023-04-10 19:12:32 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : yellow
+2023-04-10 19:12:32 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:32 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : M
+2023-04-10 19:12:32 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : purple
+2023-04-10 19:12:33 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : purple
+2023-04-10 19:12:33 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : white
+2023-04-10 19:12:34 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : white
+2023-04-10 19:12:34 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : yellow
+2023-04-10 19:12:35 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : yellow
+2023-04-10 19:12:35 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:35 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : L
+2023-04-10 19:12:35 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : purple
+2023-04-10 19:12:37 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : purple
+2023-04-10 19:12:37 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : white
+2023-04-10 19:12:38 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : white
+2023-04-10 19:12:38 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : yellow
+2023-04-10 19:12:39 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : yellow
+2023-04-10 19:12:39 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:39 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : XL
+2023-04-10 19:12:39 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : purple
+2023-04-10 19:12:40 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : purple
+2023-04-10 19:12:40 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : white
+2023-04-10 19:12:41 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : white
+2023-04-10 19:12:41 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : yellow
+2023-04-10 19:12:42 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : yellow
+2023-04-10 19:12:42 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:42 INFO  Create_and_signin:products_size_clr_picking:120 - Product Name : Argus All-Weather Tank
+2023-04-10 19:12:42 INFO  Create_and_signin:products_size_clr_picking:130 - Avalible size's are: [XS, S, M, L, XL]
+2023-04-10 19:12:42 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : XS
+2023-04-10 19:12:42 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : gray
+2023-04-10 19:12:44 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : gray
+2023-04-10 19:12:44 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:44 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : S
+2023-04-10 19:12:44 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : gray
+2023-04-10 19:12:45 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : gray
+2023-04-10 19:12:45 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:45 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : M
+2023-04-10 19:12:45 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : gray
+2023-04-10 19:12:46 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : gray
+2023-04-10 19:12:46 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:46 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : L
+2023-04-10 19:12:46 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : gray
+2023-04-10 19:12:47 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : gray
+2023-04-10 19:12:47 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:47 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : XL
+2023-04-10 19:12:47 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : gray
+2023-04-10 19:12:49 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : gray
+2023-04-10 19:12:49 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:49 INFO  Create_and_signin:products_size_clr_picking:120 - Product Name : Hero Hoodie
+2023-04-10 19:12:49 INFO  Create_and_signin:products_size_clr_picking:130 - Avalible size's are: [XS, S, M, L, XL]
+2023-04-10 19:12:49 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : XS
+2023-04-10 19:12:49 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : black
+2023-04-10 19:12:50 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: black
+2023-04-10 19:12:50 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : gray
+2023-04-10 19:12:51 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: gray
+2023-04-10 19:12:51 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : green
+2023-04-10 19:12:52 ERROR Create_and_signin:products_size_clr_picking:154 - Failed to click on the colour button: green
+2023-04-10 19:12:52 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:52 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : S
+2023-04-10 19:12:52 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : black
+2023-04-10 19:12:53 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : black
+2023-04-10 19:12:53 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : gray
+2023-04-10 19:12:55 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : gray
+2023-04-10 19:12:55 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : green
+2023-04-10 19:12:56 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : green
+2023-04-10 19:12:56 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:56 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : M
+2023-04-10 19:12:56 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : black
+2023-04-10 19:12:57 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : black
+2023-04-10 19:12:57 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : gray
+2023-04-10 19:12:58 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : gray
+2023-04-10 19:12:58 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : green
+2023-04-10 19:12:59 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : green
+2023-04-10 19:12:59 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:12:59 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : L
+2023-04-10 19:12:59 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : black
+2023-04-10 19:13:00 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : black
+2023-04-10 19:13:00 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : gray
+2023-04-10 19:13:01 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : gray
+2023-04-10 19:13:01 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : green
+2023-04-10 19:13:02 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : green
+2023-04-10 19:13:02 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:13:03 INFO  Create_and_signin:products_size_clr_picking:138 - Successfully clicked on the size button : XL
+2023-04-10 19:13:03 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : black
+2023-04-10 19:13:04 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : black
+2023-04-10 19:13:04 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : gray
+2023-04-10 19:13:05 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : gray
+2023-04-10 19:13:05 INFO  Create_and_signin:products_size_clr_picking:143 - Clicking on colour button : green
+2023-04-10 19:13:06 INFO  Create_and_signin:products_size_clr_picking:149 - Successfully Clicked on the colour button : green
+2023-04-10 19:13:06 INFO  Create_and_signin:products_size_clr_picking:157 - ---------------------------------
+2023-04-10 19:13:06 INFO  Create_and_signin:products_size_clr_picking:120 - Product Name : Fusion Backpack
+2023-04-10 19:14:06 INFO  Create_and_signin:products_size_clr_picking:130 - Avalible size's are: []
+2023-04-10 19:14:06 ERROR Create_and_signin:products_size_clr_picking:162 - There are no sizes are avalible for this product.
+2023-04-10 19:14:06 INFO  Create_and_signin:products_size_clr_picking:120 - Product Name : Push It Messenger Bag
+2023-04-10 19:15:06 INFO  Create_and_signin:products_size_clr_picking:130 - Avalible size's are: []
+2023-04-10 19:15:06 ERROR Create_and_signin:products_size_clr_picking:162 - There are no sizes are avalible for this product.
+2023-04-10 19:16:06 INFO  Create_and_signin:pdDetails_storing:199 - Reviews are not avaliable for this product  Argus All-Weather Tank
+2023-04-10 19:17:07 INFO  Create_and_signin:pdDetails_storing:199 - Reviews are not avaliable for this product  Hero Hoodie
+2023-04-10 19:17:15 INFO  Create_and_signin:product_select:233 - successfully clicked on product Radiant Tee with price $22.00 with reviews count 3
+2023-04-10 19:17:17 INFO  Create_and_signin:product_select:273 - Before -> Product : Radiant Tee, Price : $22.00, Reviews : 3 || After -> Product : Radiant Tee, Price : $22.00, Reviews : 3
+2023-04-10 19:17:17 INFO  Create_and_signin:product_select:274 - Product name  price and reviews count all  are validate sucessfully after clicking on the each product
+2023-04-10 19:17:20 INFO  Create_and_signin:product_select:284 - Avalible sizes are : [XS, S, M, L, XL]
+2023-04-10 19:17:25 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : XS
+2023-04-10 19:17:25 INFO  Create_and_signin:product_select:299 - Clicking on colour button : blue
+2023-04-10 19:17:27 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : blue
+2023-04-10 19:17:27 INFO  Create_and_signin:product_select:299 - Clicking on colour button : orange
+2023-04-10 19:17:28 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : orange
+2023-04-10 19:17:28 INFO  Create_and_signin:product_select:299 - Clicking on colour button : purple
+2023-04-10 19:17:29 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : purple
+2023-04-10 19:17:29 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:17:31 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : S
+2023-04-10 19:17:31 INFO  Create_and_signin:product_select:299 - Clicking on colour button : blue
+2023-04-10 19:17:32 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : blue
+2023-04-10 19:17:32 INFO  Create_and_signin:product_select:299 - Clicking on colour button : orange
+2023-04-10 19:17:33 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : orange
+2023-04-10 19:17:33 INFO  Create_and_signin:product_select:299 - Clicking on colour button : purple
+2023-04-10 19:17:34 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : purple
+2023-04-10 19:17:34 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:17:36 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : M
+2023-04-10 19:17:36 INFO  Create_and_signin:product_select:299 - Clicking on colour button : blue
+2023-04-10 19:17:37 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : blue
+2023-04-10 19:17:37 INFO  Create_and_signin:product_select:299 - Clicking on colour button : orange
+2023-04-10 19:17:38 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : orange
+2023-04-10 19:17:38 INFO  Create_and_signin:product_select:299 - Clicking on colour button : purple
+2023-04-10 19:17:39 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : purple
+2023-04-10 19:17:39 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:17:41 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : L
+2023-04-10 19:17:41 INFO  Create_and_signin:product_select:299 - Clicking on colour button : blue
+2023-04-10 19:17:42 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : blue
+2023-04-10 19:17:42 INFO  Create_and_signin:product_select:299 - Clicking on colour button : orange
+2023-04-10 19:17:44 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : orange
+2023-04-10 19:17:44 INFO  Create_and_signin:product_select:299 - Clicking on colour button : purple
+2023-04-10 19:17:45 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : purple
+2023-04-10 19:17:45 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:17:46 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : XL
+2023-04-10 19:17:47 INFO  Create_and_signin:product_select:299 - Clicking on colour button : blue
+2023-04-10 19:17:48 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : blue
+2023-04-10 19:17:48 INFO  Create_and_signin:product_select:299 - Clicking on colour button : orange
+2023-04-10 19:17:49 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : orange
+2023-04-10 19:17:49 INFO  Create_and_signin:product_select:299 - Clicking on colour button : purple
+2023-04-10 19:17:50 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : purple
+2023-04-10 19:17:50 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:18:00 INFO  Create_and_signin:product_select:233 - successfully clicked on product Breathe-Easy Tank with price $34.00 with reviews count 2
+2023-04-10 19:18:02 INFO  Create_and_signin:product_select:273 - Before -> Product : Breathe-Easy Tank, Price : $34.00, Reviews : 2 || After -> Product : Breathe-Easy Tank, Price : $34.00, Reviews : 2
+2023-04-10 19:18:02 INFO  Create_and_signin:product_select:274 - Product name  price and reviews count all  are validate sucessfully after clicking on the each product
+2023-04-10 19:18:03 INFO  Create_and_signin:product_select:284 - Avalible sizes are : [XS, S, M, L, XL]
+2023-04-10 19:18:08 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : XS
+2023-04-10 19:18:08 INFO  Create_and_signin:product_select:299 - Clicking on colour button : purple
+2023-04-10 19:18:09 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : purple
+2023-04-10 19:18:09 INFO  Create_and_signin:product_select:299 - Clicking on colour button : white
+2023-04-10 19:18:10 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : white
+2023-04-10 19:18:10 INFO  Create_and_signin:product_select:299 - Clicking on colour button : yellow
+2023-04-10 19:18:11 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : yellow
+2023-04-10 19:18:11 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:18:12 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : S
+2023-04-10 19:18:12 INFO  Create_and_signin:product_select:299 - Clicking on colour button : purple
+2023-04-10 19:18:13 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : purple
+2023-04-10 19:18:13 INFO  Create_and_signin:product_select:299 - Clicking on colour button : white
+2023-04-10 19:18:14 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : white
+2023-04-10 19:18:14 INFO  Create_and_signin:product_select:299 - Clicking on colour button : yellow
+2023-04-10 19:18:15 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : yellow
+2023-04-10 19:18:15 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:18:15 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : M
+2023-04-10 19:18:15 INFO  Create_and_signin:product_select:299 - Clicking on colour button : purple
+2023-04-10 19:18:17 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : purple
+2023-04-10 19:18:17 INFO  Create_and_signin:product_select:299 - Clicking on colour button : white
+2023-04-10 19:18:18 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : white
+2023-04-10 19:18:18 INFO  Create_and_signin:product_select:299 - Clicking on colour button : yellow
+2023-04-10 19:18:19 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : yellow
+2023-04-10 19:18:19 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:18:19 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : L
+2023-04-10 19:18:19 INFO  Create_and_signin:product_select:299 - Clicking on colour button : purple
+2023-04-10 19:18:20 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : purple
+2023-04-10 19:18:20 INFO  Create_and_signin:product_select:299 - Clicking on colour button : white
+2023-04-10 19:18:21 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : white
+2023-04-10 19:18:21 INFO  Create_and_signin:product_select:299 - Clicking on colour button : yellow
+2023-04-10 19:18:22 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : yellow
+2023-04-10 19:18:22 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:18:23 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : XL
+2023-04-10 19:18:23 INFO  Create_and_signin:product_select:299 - Clicking on colour button : purple
+2023-04-10 19:18:24 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : purple
+2023-04-10 19:18:24 INFO  Create_and_signin:product_select:299 - Clicking on colour button : white
+2023-04-10 19:18:25 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : white
+2023-04-10 19:18:25 INFO  Create_and_signin:product_select:299 - Clicking on colour button : yellow
+2023-04-10 19:18:26 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : yellow
+2023-04-10 19:18:26 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:18:32 INFO  Create_and_signin:product_select:233 - successfully clicked on product Argus All-Weather Tank with price $22.00 with reviews count 
+2023-04-10 19:19:34 ERROR Create_and_signin:product_select:268 - Reviews not avaliable for this product Argus All-Weather Tank
+2023-04-10 19:19:34 INFO  Create_and_signin:product_select:273 - Before -> Product : Argus All-Weather Tank, Price : $22.00, Reviews :  || After -> Product : Argus All-Weather Tank, Price : $22.00, Reviews : 
+2023-04-10 19:19:34 INFO  Create_and_signin:product_select:274 - Product name  price and reviews count all  are validate sucessfully after clicking on the each product
+2023-04-10 19:19:34 INFO  Create_and_signin:product_select:284 - Avalible sizes are : [XS, S, M, L, XL]
+2023-04-10 19:19:34 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : XS
+2023-04-10 19:19:34 INFO  Create_and_signin:product_select:299 - Clicking on colour button : gray
+2023-04-10 19:19:35 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : gray
+2023-04-10 19:19:35 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:19:36 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : S
+2023-04-10 19:19:36 INFO  Create_and_signin:product_select:299 - Clicking on colour button : gray
+2023-04-10 19:19:37 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : gray
+2023-04-10 19:19:37 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:19:37 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : M
+2023-04-10 19:19:37 INFO  Create_and_signin:product_select:299 - Clicking on colour button : gray
+2023-04-10 19:19:38 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : gray
+2023-04-10 19:19:38 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:19:38 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : L
+2023-04-10 19:19:38 INFO  Create_and_signin:product_select:299 - Clicking on colour button : gray
+2023-04-10 19:19:39 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : gray
+2023-04-10 19:19:39 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:19:40 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : XL
+2023-04-10 19:19:40 INFO  Create_and_signin:product_select:299 - Clicking on colour button : gray
+2023-04-10 19:19:41 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : gray
+2023-04-10 19:19:41 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:19:46 INFO  Create_and_signin:product_select:233 - successfully clicked on product Hero Hoodie with price $54.00 with reviews count 
+2023-04-10 19:20:48 ERROR Create_and_signin:product_select:268 - Reviews not avaliable for this product Hero Hoodie
+2023-04-10 19:20:48 INFO  Create_and_signin:product_select:273 - Before -> Product : Hero Hoodie, Price : $54.00, Reviews :  || After -> Product : Hero Hoodie, Price : $54.00, Reviews : 
+2023-04-10 19:20:48 INFO  Create_and_signin:product_select:274 - Product name  price and reviews count all  are validate sucessfully after clicking on the each product
+2023-04-10 19:20:48 INFO  Create_and_signin:product_select:284 - Avalible sizes are : [XS, S, M, L, XL]
+2023-04-10 19:20:51 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : XS
+2023-04-10 19:20:51 INFO  Create_and_signin:product_select:299 - Clicking on colour button : black
+2023-04-10 19:20:52 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : black
+2023-04-10 19:20:52 INFO  Create_and_signin:product_select:299 - Clicking on colour button : gray
+2023-04-10 19:20:54 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : gray
+2023-04-10 19:20:54 INFO  Create_and_signin:product_select:299 - Clicking on colour button : green
+2023-04-10 19:20:55 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : green
+2023-04-10 19:20:55 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:20:58 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : S
+2023-04-10 19:20:58 INFO  Create_and_signin:product_select:299 - Clicking on colour button : black
+2023-04-10 19:20:59 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : black
+2023-04-10 19:20:59 INFO  Create_and_signin:product_select:299 - Clicking on colour button : gray
+2023-04-10 19:21:00 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : gray
+2023-04-10 19:21:00 INFO  Create_and_signin:product_select:299 - Clicking on colour button : green
+2023-04-10 19:21:01 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : green
+2023-04-10 19:21:01 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:21:03 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : M
+2023-04-10 19:21:03 INFO  Create_and_signin:product_select:299 - Clicking on colour button : black
+2023-04-10 19:21:04 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : black
+2023-04-10 19:21:04 INFO  Create_and_signin:product_select:299 - Clicking on colour button : gray
+2023-04-10 19:21:05 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : gray
+2023-04-10 19:21:05 INFO  Create_and_signin:product_select:299 - Clicking on colour button : green
+2023-04-10 19:21:06 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : green
+2023-04-10 19:21:06 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:21:08 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : L
+2023-04-10 19:21:08 INFO  Create_and_signin:product_select:299 - Clicking on colour button : black
+2023-04-10 19:21:09 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : black
+2023-04-10 19:21:09 INFO  Create_and_signin:product_select:299 - Clicking on colour button : gray
+2023-04-10 19:21:11 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : gray
+2023-04-10 19:21:11 INFO  Create_and_signin:product_select:299 - Clicking on colour button : green
+2023-04-10 19:21:12 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : green
+2023-04-10 19:21:12 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:21:12 INFO  Create_and_signin:product_select:292 - Successfully clicked on the size button : XL
+2023-04-10 19:21:12 INFO  Create_and_signin:product_select:299 - Clicking on colour button : black
+2023-04-10 19:21:13 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : black
+2023-04-10 19:21:13 INFO  Create_and_signin:product_select:299 - Clicking on colour button : gray
+2023-04-10 19:21:14 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : gray
+2023-04-10 19:21:14 INFO  Create_and_signin:product_select:299 - Clicking on colour button : green
+2023-04-10 19:21:15 INFO  Create_and_signin:product_select:315 - Successfully Clicked on the colour button : green
+2023-04-10 19:21:15 INFO  Create_and_signin:product_select:323 - ---------------------------------
+2023-04-10 19:21:21 INFO  Create_and_signin:product_select:233 - successfully clicked on product Fusion Backpack with price $59.00 with reviews count 3
+2023-04-10 19:21:24 INFO  Create_and_signin:product_select:273 - Before -> Product : Fusion Backpack, Price : $59.00, Reviews : 3 || After -> Product : Fusion Backpack, Price : $59.00, Reviews : 3
+2023-04-10 19:21:24 INFO  Create_and_signin:product_select:274 - Product name  price and reviews count all  are validate sucessfully after clicking on the each product
+2023-04-10 19:22:24 ERROR Create_and_signin:getMultiElements:102 - The command did not execute or complete within wait time
+2023-04-10 19:22:24 INFO  Create_and_signin:product_select:343 - sizes and colours are not avaliable for this Fusion Backpack
+2023-04-10 19:22:29 INFO  Create_and_signin:product_select:233 - successfully clicked on product Push It Messenger Bag with price $45.00 with reviews count 3
+2023-04-10 19:22:31 INFO  Create_and_signin:product_select:273 - Before -> Product : Push It Messenger Bag, Price : $45.00, Reviews : 3 || After -> Product : Push It Messenger Bag, Price : $45.00, Reviews : 3
+2023-04-10 19:22:31 INFO  Create_and_signin:product_select:274 - Product name  price and reviews count all  are validate sucessfully after clicking on the each product
+2023-04-10 19:23:31 ERROR Create_and_signin:getMultiElements:102 - The command did not execute or complete within wait time
+2023-04-10 19:23:31 INFO  Create_and_signin:product_select:343 - sizes and colours are not avaliable for this Push It Messenger Bag
